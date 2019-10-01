@@ -1,5 +1,5 @@
 # hapi-boilerplate
-Simple HAPI Framework Boilerplate
+A very simple structured HAPI boilerplate with mongodb, cors and token base authentication.
 
 ```
 setup
