@@ -22,7 +22,7 @@ const init = async () => {
     await AuthMiddleware.Setup(server);
 
     //  set routes
-    server.route(routes);
+    await server.route(routes);
 
     //  start server
     await server.start();
