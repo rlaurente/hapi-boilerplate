@@ -1,0 +1,10 @@
+{
+    "hapi_config": {
+        "host": "localhost",
+        "port": "8080"
+    },
+    "database_url": "mongodb://localhost:27017/sample-db",
+    "cors_allowed_origins": [
+        "http://localhost:8100"
+    ]
+}
